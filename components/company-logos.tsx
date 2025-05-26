@@ -3,7 +3,7 @@
 import Image from "next/image"
 
 const companyLogos = [
-  { name: "Oracle", logo: "/oracle.png?height=60&width=120&text=Oracle" },
+  { name: "Oracle", logo: "/oracle.jpg?height=60&width=120&text=Oracle" },
   { name: "Amazon", logo: "/amazon.webp?height=60&width=120&text=Amazon" },
   { name: "Google Cloud", logo: "/cloud.png?height=60&width=120&text=Google" },
   { name: "Microsoft", logo: "/microsoft.jpg?height=60&width=120&text=Microsoft" },
