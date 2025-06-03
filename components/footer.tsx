@@ -45,7 +45,7 @@ export default function Footer() {
                 <span className="sr-only">Instagram</span>
               </Link>
               <Link
-                href="#"
+                href="https://www.linkedin.com/company/upscaletek/posts/?feedView=all"
                 className="text-muted-foreground hover:text-primary transition-colors transform hover:scale-110"
               >
                 <Linkedin className="h-5 w-5" />
