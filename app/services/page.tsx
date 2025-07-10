@@ -159,13 +159,7 @@ const allServices = [
     icon: "GitBranch",
     href: "/services/devops",
   },
-  {
-    id: "quality-assurance",
-    title: "Quality Assurance",
-    description: "Comprehensive testing and quality assurance services to ensure the reliability of your software.",
-    icon: "CheckCircle",
-    href: "/services/quality-assurance",
-  },
+ 
   {
     id: "it-consulting",
     title: "IT Consulting",
